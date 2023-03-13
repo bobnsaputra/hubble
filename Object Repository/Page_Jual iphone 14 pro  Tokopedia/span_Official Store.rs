@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Official Store</name>
+   <tag></tag>
+   <elementGuidId>42084596-ed1b-40d4-a903-92e240a3dca6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-iaqlny</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8488be6c-a459-4d15-9852-0eaca78e2eef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-iaqlny</value>
+      <webElementGuid>69cda386-6752-4274-89c5-87d65b5536b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Official Store</value>
+      <webElementGuid>9f76917a-1739-4ae0-b73f-36388938f8c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-gfb3wv&quot;]/div[@class=&quot;css-18nstr8&quot;]/div[1]/div[@class=&quot;css-1v9xyuw&quot;]/div[1]/div[@class=&quot;css-8j2nbl&quot;]/div[@class=&quot;css-1m93f3h&quot;]/div[1]/div[@class=&quot;css-1cb34wj&quot;]/div[@class=&quot;css-frokek&quot;]/label[@class=&quot;css-1v08vow&quot;]/span[@class=&quot;css-iaqlny&quot;]</value>
+      <webElementGuid>c92460a9-6a47-4275-aa71-8f7335713ba2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/label/span</value>
+      <webElementGuid>6eab2a71-db75-48b4-ad1e-fe80882f3e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis toko'])[1]/following::span[2]</value>
+      <webElementGuid>1ecd3f6d-c729-4921-af29-399524c46e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handphone'])[1]/following::span[2]</value>
+      <webElementGuid>8a57c7be-cc71-4e70-8b19-699d4b8e8edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Power Merchant Pro'])[1]/preceding::span[2]</value>
+      <webElementGuid>e67c36f2-d02e-460c-af0f-2bae2567441f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Power Merchant'])[1]/preceding::span[4]</value>
+      <webElementGuid>58a7985c-582a-4629-a1f4-1a888e232909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Official Store']/parent::*</value>
+      <webElementGuid>09a93727-724a-4a10-98d7-72eeb8f3f1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>4e2a714c-176b-4766-9de7-dc7ca9890e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Official Store' or . = 'Official Store')]</value>
+      <webElementGuid>4b7cfff1-f191-434a-a996-3232be6aecdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

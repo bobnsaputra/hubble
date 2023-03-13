@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Kategori_css-3017qm exxxdg63</name>
+   <tag></tag>
+   <elementGuidId>b86150e1-a053-4f71-8e61-2edffece76ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'search' and @placeholder = 'Cari di Tokopedia']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.css-3017qm.exxxdg63</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>eab7634c-3ed1-460f-a330-58a5fa7e862a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>a72ade66-0a4e-4ba3-870f-71f0e7fa7724</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Cari di Tokopedia</value>
+      <webElementGuid>5c1ea92c-e8a6-4cbc-ab95-528de6ebac96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>2835f5a6-9ec5-4724-ba57-9fe10f69b327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari di Tokopedia</value>
+      <webElementGuid>4e3c5354-385d-472c-8fb7-104b5ada7078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-3017qm exxxdg63</value>
+      <webElementGuid>50feb87d-b211-4329-ab58-beb63204e7ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-1s8dqy5 e90swyx2&quot;]/div[@class=&quot;css-nlrenb&quot;]/div[@class=&quot;css-w3ze74&quot;]/div[@class=&quot;css-1tul5ni&quot;]/div[@class=&quot;css-1y5dsat&quot;]/div[@class=&quot;css-v1hkkg e1v32nag0&quot;]/input[@class=&quot;css-3017qm exxxdg63&quot;]</value>
+      <webElementGuid>4cd49576-8c9e-48e1-a9ea-d29d976f5484</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>e3d45900-17de-40d4-925a-320fc97e3457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div[2]/div/div/div/div/input</value>
+      <webElementGuid>ea882bce-bc84-42b0-be37-123597175ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>82f0a390-0c12-402a-9ef6-14f28ec4f37e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'search' and @placeholder = 'Cari di Tokopedia']</value>
+      <webElementGuid>43c707b8-8727-460f-a4d0-a2d1f21a23af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
