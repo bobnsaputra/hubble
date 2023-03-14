@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name = 'pmax' and @placeholder = 'Harga Maksimum' and @type = 'text']</value>
+         <value>//input[@data-testid= &quot;iptSRPMaxPriceFilter&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>930352f1-0c4b-47cc-8f7e-4346c42042ff</webElementGuid>
+      <webElementGuid>9fbae3cd-d81e-4192-b5d7-7eb2a77b1f3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>data-unify</name>
       <type>Main</type>
       <value>TextField</value>
-      <webElementGuid>feab076f-9d5d-47b2-8cfb-2471f923e854</webElementGuid>
+      <webElementGuid>0d065a54-2782-432e-bec0-866dcc4de22e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>pmax</value>
-      <webElementGuid>58a2fdf5-abc4-4e43-b5f7-334644bfcab3</webElementGuid>
+      <webElementGuid>bc85db65-ddab-4c61-a6db-06e9e564bb8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Harga Maksimum</value>
-      <webElementGuid>6a8bebdd-4e3b-466d-9eb1-3950f18a0dbe</webElementGuid>
+      <webElementGuid>43670c35-27d8-4cfc-8049-26ca83d3ab60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9f109cee-8b56-4ece-b02f-feef67ba41ba</webElementGuid>
+      <webElementGuid>25ede4ff-4ac9-4b2d-8d8f-542a670c78e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>iptSRPMaxPriceFilter</value>
-      <webElementGuid>9493b335-34ab-48ba-97f9-5b7497f23acc</webElementGuid>
+      <webElementGuid>ff6fc5b2-66bf-4a2f-9b2d-f93acc0d6c1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-3017qm exxxdg63</value>
-      <webElementGuid>48846449-c480-4437-81f5-1dcd27820e63</webElementGuid>
+      <webElementGuid>252d63c6-8071-457d-b730-d08c60af0c4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-gfb3wv&quot;]/div[@class=&quot;css-18nstr8&quot;]/div[1]/div[@class=&quot;css-1v9xyuw&quot;]/div[1]/div[@class=&quot;css-8j2nbl&quot;]/div[@class=&quot;css-1m93f3h&quot;]/div[1]/div[@class=&quot;css-1cb34wj&quot;]/div[@class=&quot;css-frokek&quot;]/div[@class=&quot;css-d145w4 erj7th70&quot;]/div[@class=&quot;css-79elbk erj7th72&quot;]/div[@class=&quot;css-am5ycs erj7th73&quot;]/input[@class=&quot;css-3017qm exxxdg63&quot;]</value>
-      <webElementGuid>d4c0c9bf-1e8c-48fd-a658-1365310dba39</webElementGuid>
+      <webElementGuid>51524fce-5507-49e9-b147-79370a1d471b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='pmax']</value>
-      <webElementGuid>aab04eb7-c5a0-45d1-85a4-3c4b67b86d8e</webElementGuid>
+      <webElementGuid>b264d977-b3c7-4545-9d62-ed12d42da9b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='zeus-root']/div/div[2]/div/div/div/div/div/div/div[4]/div/div/div/div[2]/div/div/div/input</value>
-      <webElementGuid>30c05eae-4637-40c4-8935-a622705e9d0d</webElementGuid>
+      <webElementGuid>9aaf02bd-7ea8-4e9c-a312-5811bd2c5539</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/input</value>
-      <webElementGuid>02f16525-093f-4a61-9f1f-4c91af2eb5a5</webElementGuid>
+      <webElementGuid>828bc3bf-9afc-44b0-8d45-78e0f496cfb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'pmax' and @placeholder = 'Harga Maksimum' and @type = 'text']</value>
-      <webElementGuid>df5ef46d-390a-4464-a7f1-a3bfe5713de6</webElementGuid>
+      <webElementGuid>c630cbe0-770a-4aea-bf37-1504723c6b77</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

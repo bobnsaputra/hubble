@@ -14,10 +14,14 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import com.thoughtworks.selenium.Wait.WaitTimedOutException
+
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('tokopedia.com')
+
+WebUI.maximizeWindow()
 
 WebUI.waitForPageLoad(20)
 
@@ -35,7 +39,11 @@ WebUI.sendKeys(findTestObject('Page_Jual iphone 14 pro  Tokopedia/input_Rp_pmin'
 
 WebUI.waitForPageLoad(10)
 
+WebUI.click(findTestObject('Page_Jual iphone 14 pro  Tokopedia/input_Rp_pmax'))
+
 WebUI.sendKeys(findTestObject('Page_Jual iphone 14 pro  Tokopedia/input_Rp_pmax'), GlobalVariable.maxHarga)
+
+WebUI.click(findTestObject('Page_Jual iphone 14 pro  Tokopedia/input_Rp_pmin'))
 
 WebUI.click(findTestObject('Page_Jual iphone 14 pro  Tokopedia/button_Paling Sesuai'))
 
@@ -45,9 +53,13 @@ phoneData = WebUI.getText(findTestObject('Page_Jual iphone 14 pro  Tokopedia/div
 
 WebUI.getText(findTestObject('Page_Jual iphone 14 pro  Tokopedia/div_Apple iPhone 14 Pro - Garansi Resmi iBox Apple Indonesia'))
 
+WebUI.scrollToPosition(50, 6000)
+
 WebUI.click(findTestObject('Page_Jual iphone 14 pro  Tokopedia/button_2'))
 
 WebUI.getText(findTestObject('Page_Jual iphone 14 pro  Tokopedia/div_APPLE IPHONE 14 PRO 128 GARANSI RESMI IBOX TERMURAH'))
+
+WebUI.scrollToPosition(50, 6000)
 
 WebUI.click(findTestObject('Page_Jual iphone 14 pro  Tokopedia/button_3'))
 
